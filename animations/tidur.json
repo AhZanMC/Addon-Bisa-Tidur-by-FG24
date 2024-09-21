@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.humanoid.tidur": {
+			"loop": true,
+			"bones": {
+				"root": {
+					"rotation": [-90, 0, 0]
+				},
+				"hat": {
+					"rotation": [0, 0, 0]
+				},
+				"leftSleeve": {
+					"rotation": [-10, 0, 0]
+				},
+				"leftPants": {
+					"rotation": [0, 0, 0]
+				},
+				"jacket": {
+					"rotation": [0, 0, 0]
+				}
+			}
+		}
+	}
+}

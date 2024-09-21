@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Membuat kalian bisa tidur tanpa kasur.\nCreator: Fauzan Gamers 24",
+        "name": "Add-on Bisa Tidur RP",
+        "uuid": "c3efcfd2-9a92-4a9c-24c4-14b0eeeec07a",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "description": "Membuat kalian bisa tidur tanpa kasur.\nCreator: Fauzan Gamers 24",
+            "type": "resources",
+            "uuid": "b93e1b74-1757-44dd-841c-2b098ed3893c",
+            "version": [1, 0, 0]
+        }
+    ]
+}
